@@ -1,5 +1,7 @@
 "react": "^18.0.0",
+
 "@reduxjs/toolkit": "^1.9.5"
+
 데이터 연동x
 
 
