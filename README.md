@@ -2,8 +2,9 @@
 
 "@reduxjs/toolkit": "^1.9.5"
 
-데이터 연동x
+연습용 데이터 연동x
 
 
-![K-003](https://user-images.githubusercontent.com/119998807/236257380-e558d4b5-ae95-4460-ac1a-fbba4a99497e.png)
-![K-004](https://user-images.githubusercontent.com/119998807/236257399-e3bfc203-5abc-4402-8725-61d0e9853c74.png)
+![K-005](https://user-images.githubusercontent.com/119998807/236258521-ebaae59f-6f20-435b-a64c-18d555675c8d.png)
+![K-004](https://user-images.githubusercontent.com/119998807/236258527-c2f94f04-ccaa-4e9d-a523-673b08dae948.png)
+
